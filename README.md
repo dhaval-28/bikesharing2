@@ -3,7 +3,6 @@
 ## Overview
 Kate wants to start a bike sharing program in Des Moines,very similar to  New-York City's bike share program. She wants to analyze New-York City's Citi Bike data that has been released to the public. The purpose of this analysis is to present the viability of bike sharing program for De Moines using NYC's Citi bike program. Tableau is used to present the analysis in nice  and simple visual form to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
-convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 ## Results
 
  * Deliverable 1: Change Trip Duration to a Datetime Format  ![click here for : NYC_CitiBike_Challenge.ipynb file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
