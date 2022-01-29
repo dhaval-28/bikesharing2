@@ -13,12 +13,13 @@ convince investors that a bike-sharing program in Des Moines is a solid business
 #### Analysis of the Story
 * 1. <u>Trips analysis by Tripduration</u>. Most of the rides are of 5 minutes and majority of them are less then 20 mins. There are a very few rides beyond 1 hour.
 ![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/1-Checkout%20Times%20for%20Users.png)
-* 2. <u>Trips analysis by tripduration and gender</u>. 5 mins ride are the most preffered among men and 6 mins among female. While there are 3 times more male riders then female. 
-* 3. <u>Trips by each day of the week</u>. Morning 7am to 8am and evening 5pm -7 pm are the busiest time.
-* 4. <u>Trips by gender by each day of week/end</u>. During pick hours, there are more male riders then female. Morning 7am to 8am and evening 5pm -7 pm are the most preferred timings for rides among all gender types.
-* 5. <u>Trips by type of users & type of gender during weekdays </u>. There are most riders on Thursday and Friday. Most of them are Male with subscribed service. 
-* 6. <u>Type of Customers</u>.  Majority of the customers like to subscribe the service.
-* 7. <u>Most popular starting points</u>. There are specific points which are more favored to start the bike ride.
+* 2. <u>Trips analysis by tripduration and gender</u>. 5 mins ride are the most preffered among men and 6 mins among female. While there are 3 times more male riders then female. ![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/2-Checkout%20Times%20by%20Gender.png)
+* 3. <u>Trips by each day of the week</u>. Morning 7am to 8am and evening 5pm -7 pm are the busiest time.![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/3-Trips%20by%20Weekday%20per%20Hour.png)
+* 4. <u>Trips by gender by each day of week/end</u>. During pick hours, there are more male riders then female. Morning 7am to 8am and evening 5pm -7 pm are the most preferred timings for rides among all gender types.![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/4-Trips%20by%20Gender%20-%20Weekday%20per%20Hour.png)
+* 5. <u>Trips by type of users & type of gender during weekdays </u>. There are most riders on Thursday and Friday. Most of them are Male with subscribed service. ![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/5-User%20Trips%20by%20Gender%20by%20Weekday.png)
+* 6. <u>Type of Customers</u>.  Majority of the customers like to subscribe the service.![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/6-Customer%20Type.png)
+* 7. <u>Most popular starting points</u>. There are specific points which are more favored to start the bike ride.![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/7-Top%20Starting%20Location.png)
+
 
 ## Summary
 * 1. Bike rides for shorter durations are more preferred by riders. So, the charges could be higher for shorter trips. 
