@@ -17,6 +17,7 @@ Kate wants to start a bike sharing program in Des Moines,very similar to  New-Yo
 * 4. <u>Trips by gender by each day of week/end</u>. During pick hours, there are more male riders then female. Morning 7am to 8am and evening 5pm -7 pm are the most preferred timings for rides among all gender types.![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/4-Trips%20by%20Gender%20-%20Weekday%20per%20Hour.png)
 * 5. <u>Trips by type of users & type of gender during weekdays </u>. There are most riders on Thursday and Friday. Most of them are Male with subscribed service. ![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/5-User%20Trips%20by%20Gender%20by%20Weekday.png)
 
+
 #### Analysis of additional visualizations
 * 1. <u>Type of Customers</u>.  Majority of the customers like to subscribe the service.<br>
 ![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/6-Customer%20Type.png)
