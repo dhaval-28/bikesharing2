@@ -5,7 +5,7 @@ Kate wants to start a bike sharing program in Des Moines,very similar to  New-Yo
 
 ## Results
 
- * Deliverable 1: Change Trip Duration to a Datetime Format  ![click here for : NYC_CitiBike_Challenge.ipynb file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
+ * Deliverable 1: Change Trip Duration to a Datetime Format  ![click here for : NYC_CitiBike_Challenge.ipynb file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js) ![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/Deliverable-1.png)
  * Deliverable 2: Create Visualizations for the Trip Analysis (https://public.tableau.com/app/profile/dhaval.patel4886/viz/CitiBike_Challenge_16434338615460/Story-BikeTripAnalysis?publish=yes)
  * Deliverable 3: Create a Story and Report for the Final Presentation(https://public.tableau.com/app/profile/dhaval.patel4886/viz/CitiBike_Challenge_16434338615460/Story-BikeTripAnalysis?publish=yes)
 
