@@ -28,8 +28,10 @@ convince investors that a bike-sharing program in Des Moines is a solid business
 * 3. Morning 7am to 8am and evening 5pm -7 pm are the busiest time. Late evening (after 10pm to 5am) are the least pick timings. They could be used for maintenance purpose without impacting sales.
 * 4. Morning 7am to 8am and evening 5pm -7 pm are the most preferred hours for all gender types.  This will be the period to judge what's the maximum number of bikes needed to run the bike sharing program without having a scarcity of bikes at any given time of the day and week.
 * 5. Thursday and Fridays are the most pick timings for bike sharing program. All bikes should be available on these days and there should be no planned maintenance.
-* 6. It seems subscription model is more preferred amount riders and there are more regular bikers then customers who uses bike share program once in a while. This could be true more for NYC as there are more tourist any given day.
-* 7. There are certain points which are more preferred to start the bike-ride. Des Moins would have the similar situation and those points would need to have more bikes compare to others. 
+* 
+### Summary of two additional visualizations
+* 1. It seems subscription model is more preferred amount riders and there are more regular bikers then customers who uses bike share program once in a while. This could be true more for NYC as there are more tourist any given day.
+* 2. There are certain points which are more preferred to start the bike-ride. Des Moins would have the similar situation and those points would need to have more bikes compare to others. 
 
 
 
