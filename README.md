@@ -35,7 +35,7 @@ Kate wants to start a bike sharing program in Des Moines,very similar to  New-Yo
 * 1. It seems subscription model is more preferred amount riders and there are more regular bikers then customers who uses bike share program once in a while. This could be true more for NYC as there are more tourist any given day.
 * 2. There are certain points which are more preferred to start the bike-ride. Des Moins would have the similar situation and those points would need to have more bikes compare to others. 
 
-### Additional visualizations recommended 
+### Additional visualizations recommendation 
 * 1. Bike share points on a map by gender :  This will help to understand if certain points are more or least popular among certain gender type. 
 * 2. Bike share points on a map by age group : This will help to understand if certain points are more or least popular among certain age group. 
 
