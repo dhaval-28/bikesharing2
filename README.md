@@ -7,11 +7,12 @@ convince investors that a bike-sharing program in Des Moines is a solid business
 ## Results
 
  * Deliverable 1: Change Trip Duration to a Datetime Format  ![click here for : NYC_CitiBike_Challenge.ipynb file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
- * Deliverable 2: Create Visualizations for the Trip Analysis  ![click here for Trip Analysis](https://public.tableau.com/app/profile/dhaval.patel4886/viz/CitiBike_Challenge_16434338615460/Story-BikeTripAnalysis?publish=yes)
- * Deliverable 3: Create a Story and Report for the Final Presentation ![click here for Story](https://public.tableau.com/app/profile/dhaval.patel4886/viz/CitiBike_Challenge_16434338615460/Story-BikeTripAnalysis?publish=yes)
+ * Deliverable 2: Create Visualizations for the Trip Analysis  ![click here for the Trip Analysis](https://public.tableau.com/app/profile/dhaval.patel4886/viz/CitiBike_Challenge_16434338615460/Story-BikeTripAnalysis?publish=yes)
+ * Deliverable 3: Create a Story and Report for the Final Presentation ![click here for the Story](https://public.tableau.com/app/profile/dhaval.patel4886/viz/CitiBike_Challenge_16434338615460/Story-BikeTripAnalysis?publish=yes)
 
 #### Analysis of the Story
 * 1. <u>Trips analysis by Tripduration</u>. Most of the rides are of 5 minutes and majority of them are less then 20 mins. There are a very few rides beyond 1 hour.
+![](https://github.com/dhaval-28/bikesharing2/blob/main/Images/1-Checkout%20Times%20for%20Users.png)
 * 2. <u>Trips analysis by tripduration and gender</u>. 5 mins ride are the most preffered among men and 6 mins among female. While there are 3 times more male riders then female. 
 * 3. <u>Trips by each day of the week</u>. Morning 7am to 8am and evening 5pm -7 pm are the busiest time.
 * 4. <u>Trips by gender by each day of week/end</u>. During pick hours, there are more male riders then female. Morning 7am to 8am and evening 5pm -7 pm are the most preferred timings for rides among all gender types.
